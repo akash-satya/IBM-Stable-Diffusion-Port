@@ -1,0 +1,102 @@
+{
+  "version_scheme": "0.2",
+  "product": {
+    "name": "stable",
+    "version": "1.0.0.0",
+    "release": "20250723_001638",
+    "summary": "stable on z/OS",
+    "repo": "local",
+    "license": "local/blob/main/patches/LICENSE",
+    "zopen_license": "local/blob/main/LICENSE",
+    "categories": "ai",
+    "buildline": "STABLE",
+    "source_type": "GIT",
+    "test_status": {
+      "total_tests": "1",
+      "total_success": "1"
+    },
+    "size": "5508096",
+    "commitsha": "f0d32a7b8b72a9663326cf5dac88644e146c6bb6",
+    "community_commitsha": "8d95686e3b556c3ba56462adac4f328ce68a0a6b",
+    "build_dependencies": [
+      {
+        "name": "bzip2",
+        "versionRange": null
+      },
+      {
+        "name": "check_clang",
+        "versionRange": null
+      },
+      {
+        "name": "cmake",
+        "versionRange": null
+      },
+      {
+        "name": "coreutils",
+        "versionRange": null
+      },
+      {
+        "name": "curl",
+        "versionRange": null
+      },
+      {
+        "name": "curl",
+        "versionRange": null
+      },
+      {
+        "name": "git",
+        "versionRange": null
+      },
+      {
+        "name": "git",
+        "versionRange": null
+      },
+      {
+        "name": "jq",
+        "versionRange": null
+      },
+      {
+        "name": "make",
+        "versionRange": null
+      },
+      {
+        "name": "ninja",
+        "versionRange": null
+      },
+      {
+        "name": "patch",
+        "versionRange": null
+      },
+      {
+        "name": "pkgconfig",
+        "versionRange": null
+      },
+      {
+        "name": "sed",
+        "versionRange": null
+      },
+      {
+        "name": "sed",
+        "versionRange": null
+      },
+      {
+        "name": "xz",
+        "versionRange": null
+      },
+      {
+        "name": "zlib",
+        "versionRange": null
+      },
+      {
+        "name": "zoslib",
+        "versionRange": null
+      },
+      {
+        "name": "zoslib",
+        "versionRange": null
+      }
+    ],
+    "runtime_dependencies": [],
+    "system_prereqs": []
+  }
+}
