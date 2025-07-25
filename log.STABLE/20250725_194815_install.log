@@ -1,0 +1,22 @@
+-- Install configuration: "Release"
+-- Installing: /data/zopen/usr/local/zopen/stable/stable-diffusion-zos-fixes/lib/libggml-cpu.a
+-- Installing: /data/zopen/usr/local/zopen/stable/stable-diffusion-zos-fixes/lib/libggml.a
+-- Installing: /data/zopen/usr/local/zopen/stable/stable-diffusion-zos-fixes/include/ggml.h
+-- Installing: /data/zopen/usr/local/zopen/stable/stable-diffusion-zos-fixes/include/ggml-cpu.h
+-- Installing: /data/zopen/usr/local/zopen/stable/stable-diffusion-zos-fixes/include/ggml-alloc.h
+-- Installing: /data/zopen/usr/local/zopen/stable/stable-diffusion-zos-fixes/include/ggml-backend.h
+-- Installing: /data/zopen/usr/local/zopen/stable/stable-diffusion-zos-fixes/include/ggml-blas.h
+-- Installing: /data/zopen/usr/local/zopen/stable/stable-diffusion-zos-fixes/include/ggml-cann.h
+-- Installing: /data/zopen/usr/local/zopen/stable/stable-diffusion-zos-fixes/include/ggml-cpp.h
+-- Installing: /data/zopen/usr/local/zopen/stable/stable-diffusion-zos-fixes/include/ggml-cuda.h
+-- Installing: /data/zopen/usr/local/zopen/stable/stable-diffusion-zos-fixes/include/ggml-kompute.h
+-- Installing: /data/zopen/usr/local/zopen/stable/stable-diffusion-zos-fixes/include/ggml-opt.h
+-- Installing: /data/zopen/usr/local/zopen/stable/stable-diffusion-zos-fixes/include/ggml-metal.h
+-- Installing: /data/zopen/usr/local/zopen/stable/stable-diffusion-zos-fixes/include/ggml-rpc.h
+-- Installing: /data/zopen/usr/local/zopen/stable/stable-diffusion-zos-fixes/include/ggml-sycl.h
+-- Installing: /data/zopen/usr/local/zopen/stable/stable-diffusion-zos-fixes/include/ggml-vulkan.h
+-- Installing: /data/zopen/usr/local/zopen/stable/stable-diffusion-zos-fixes/include/gguf.h
+-- Installing: /data/zopen/usr/local/zopen/stable/stable-diffusion-zos-fixes/lib/libggml-base.a
+-- Installing: /data/zopen/usr/local/zopen/stable/stable-diffusion-zos-fixes/lib/cmake/ggml/ggml-config.cmake
+-- Installing: /data/zopen/usr/local/zopen/stable/stable-diffusion-zos-fixes/lib/cmake/ggml/ggml-version.cmake
+-- Installing: /data/zopen/usr/local/zopen/stable/stable-diffusion-zos-fixes/bin/sd
